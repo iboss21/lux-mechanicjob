@@ -43,4 +43,7 @@ Duty on duty laptops or just enter inside mlo. otherwise you can setup job in qb
     },
 ```
 
+Also u need to add line in qb management 
+For ottos to be able access boss menu
+
 
